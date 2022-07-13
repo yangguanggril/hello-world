@@ -3,4 +3,4 @@
 
 My first repository on GitHub!
 
-I love:coffee:,cat:,and:money
+I love :coffee: :cat:, and :dancer:.
